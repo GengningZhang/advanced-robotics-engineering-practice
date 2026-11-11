@@ -1,0 +1,17 @@
+# ROS 编译文件
+build/
+devel/
+logs/
+
+# ROS 数据包
+*.bag
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器和临时文件
+.vscode/
+.idea/
+*.swp
+*~
