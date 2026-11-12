@@ -104,7 +104,7 @@ wget -P assignments/proj3phase1/catkin_ws/src/ekf/bag \
   https://repo.hkust-uav.org/artifactory/generic-artifactory/rosbag/elec5660/ekf_A3.bag
 ```
 
-下载完成后，将数据包放在对应 ROS 启动文件所要求的位置，再编译运行。建议不要将 `.bag` 文件提交到 GitHub。
+下载完成后，将数据包放在对应 ROS 启动文件所要求的位置，再编译运行。
 
 ## 参考与致谢
 
